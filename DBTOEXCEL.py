@@ -1,7 +1,7 @@
 import pandas as pd
 import pyodbc
 
-# Define database connection parameters
+# Define database connection parametersNEWNEW
 server = 'DESKTOP-1J63TNT\\MSSQLSERVER2022'
 database = 'AdventureWorks'
 table = 'Sales.SalesPerson'
